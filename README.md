@@ -27,7 +27,7 @@ This creates your own copy of the repo under your GitHub account.
 3. Scroll to the **last line** and add your row at the bottom, using this format:
 
    ```
-   <2>,<NELSON THON AKECH><Computer Science>
+   <2>,<NELSON THON AKECH><22-CCS-011><Computer Science>
    ```
 
    **Example:**
