@@ -28,6 +28,7 @@ This creates your own copy of the repo under your GitHub account.
 
    ```
    <2>,<NELSON THON AKECH><22-CCS-011><Computer Science>
+   <7>,<BACHAM CHAP DENG>,<22-CYS-014>,<CYBER SECURITY>
    ```
 
    **Example:**
@@ -38,12 +39,15 @@ This creates your own copy of the repo under your GitHub account.
 4. Scroll down → click **Commit changes**.
 5. Select **Create a new branch for this commit**.
 6. Name the branch: `NELSON THON AKECH ` (e.g. `add-jane-doe`).
+6. Name the branch: `add-BACHAM CHAP DENG ` (e.g. `add-jane-doe`).
 7. Click **Propose changes**.
 
 ### Step 3 — Open a Pull Request
 1. Click **Create pull request**.
 2. Title: `Add <NELSONTHONAKECH> to student list`
 3. In the description, fill in the checklist (NELSON THON AKECH, 22-CCS-011, Computer Science).
+2. Title: `Add <BACHAM CHAP DENG> to student list`
+3. In the description, fill in the checklist (BACHAM CHAP DENG, 22-CYS-014, CYBER SECURITY).
 4. Click **Create pull request**.
 
 ### Step 4 — Wait for review
